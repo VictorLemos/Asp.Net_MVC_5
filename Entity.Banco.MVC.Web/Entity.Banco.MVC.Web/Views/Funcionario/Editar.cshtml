@@ -1,0 +1,65 @@
+﻿@model Entity.Banco.MVC.Web.Models.Funcionario
+@{
+    ViewBag.Title = "Editar";
+}
+
+<h2>Edição de Funcionario</h2>
+
+@using (@Html.BeginForm())
+{
+    //Passa o Id do funcionário em um campo oculto
+    @Html.HiddenFor(f => f.FuncionarioId)
+    <div class="form-group">
+        @Html.LabelFor(f => f.Nome)
+        @Html.TextBoxFor(f => f.Nome,
+                new
+                {
+                    @class = "form-control",
+                    placeholder = "Digite o Nome"
+                })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(f => f.DataNascimento)
+        @Html.TextBoxFor(f => f.DataNascimento,
+                new
+                {
+                    @class = "form-control",
+                    placeholder = "Digite a Data de Nascimento"
+                })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(f => f.Salario)
+        @Html.TextBoxFor(f => f.Salario,
+                new
+                {
+                    @class = "form-control",
+                    placeholder = "Digite o Salário"
+                })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(f => f.Cargo)
+        @Html.DropDownListFor(f => f.CargoId,
+            ViewBag.cargos as SelectList,
+            "Selecione",
+            new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.CheckBoxFor(f => f.Ativo)
+        @Html.LabelFor(f => f.Ativo)
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Salvar"
+               class="btn btn-primary" />
+
+        <!--Botao para voltar-->
+        @Html.ActionLink("Voltar", "Listar",
+            "Funcionario", new { @class = "btn btn-default" })
+    </div>
+}
+
+<script>
+    $().ready(function () {
+        //Habilita o datepicker no campo dataNascimento
+        $("#DataNascimento").datepicker();
+    })
+</script>

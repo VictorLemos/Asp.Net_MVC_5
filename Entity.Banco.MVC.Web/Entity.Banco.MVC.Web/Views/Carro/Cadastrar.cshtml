@@ -1,0 +1,32 @@
+﻿@model Entity.Banco.MVC.Web.Models.Carro
+@{
+    ViewBag.Title = "Cadastrar";
+}
+
+<h2>Cadastro de Carro</h2>
+
+<!--Mensagem de sucesso-->
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["msg"]
+    </div>
+}
+
+@using (@Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(c => c.Modelo)
+        @Html.TextBoxFor(c => c.Modelo,
+             new
+             {
+                 @class = "form-control",
+                 placeholder = "Digite o modelo"
+             })
+    </div>
+    <div>
+        <input type="submit" value="Salvar" class="btn btn-primary" />
+    </div>
+}
+
+

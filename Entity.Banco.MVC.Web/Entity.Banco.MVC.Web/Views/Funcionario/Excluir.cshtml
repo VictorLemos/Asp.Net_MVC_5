@@ -1,0 +1,22 @@
+﻿@model Entity.Banco.MVC.Web.Models.Funcionario
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h2>
+    Tem certeza que deseja excluir o
+    funcionário <b>@Model.Nome</b>?
+</h2>
+
+@using (@Html.BeginForm("ExcluirConfirm", "Funcionario"))
+{
+    @Html.HiddenFor(f => f.FuncionarioId)
+    <input type="submit" value="Excluir"
+           class="btn btn-danger" />
+    @Html.ActionLink("Cancelar", "Listar",
+            "Funcionario", new { @class = "btn btn-default" })
+}
+
+
+
+

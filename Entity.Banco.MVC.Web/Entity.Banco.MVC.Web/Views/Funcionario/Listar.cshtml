@@ -1,0 +1,43 @@
+﻿@model List<Entity.Banco.MVC.Web.Models.Funcionario>
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<!-- Mensagem -->
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["msg"]
+    </div>
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>Nome</th>
+        <th>Salário</th>
+        <th>Data de Nascimento</th>
+        <th>Ativo</th>
+        <th>Cargo</th>
+        <th></th>
+    </tr>
+    @foreach (var func in Model)
+    {
+        <tr>
+            <td>@func.Nome</td>
+            <td>@func.Salario</td>
+            <td>@func.DataNascimento</td>
+            <td>@func.Ativo</td>
+            <td>@func.Cargo.Descricao</td>
+            <td>
+                @Html.ActionLink("Editar",
+                    "Editar", new { id = @func.FuncionarioId },
+                    new { @class = "btn btn-warning" })
+                @Html.ActionLink("Excluir", "Excluir",
+                    new { id = @func.FuncionarioId },
+                    new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+</table>

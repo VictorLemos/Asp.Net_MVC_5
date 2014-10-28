@@ -1,0 +1,24 @@
+﻿@model Entity.Banco.MVC.Web.Models.Carro
+@{
+    ViewBag.Title = "Editar";
+}
+
+<h2>Editar Carro</h2>
+
+@using (@Html.BeginForm())
+{
+     //Passa o Id do carro em um campo oculto
+    @Html.HiddenFor(c => c.CarroId)
+    <div class="form-group">
+        @Html.LabelFor(c => c.Modelo)
+        @Html.TextBoxFor(c => c.Modelo,
+             new { @class = "form-control" })
+    </div>
+    <div>
+        <input type="submit" value="Salvar" class="btn btn-primary" />
+
+        <!--Botao para voltar-->
+        @Html.ActionLink("Voltar", "Listar",
+            "Carro", new { @class = "btn btn-default" })
+    </div>
+}

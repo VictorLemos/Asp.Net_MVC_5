@@ -1,0 +1,38 @@
+﻿@model Entity.Banco.MVC.Web.Models.Pagamento
+@{
+    ViewBag.Title = "Editar";
+}
+
+<h2>Edição de Pagamento</h2>
+
+@using (@Html.BeginForm())
+{
+    //Passa o Id do pagamento em um campo oculto
+    @Html.HiddenFor(p => p.PagamentoId)
+    <div class="form-group">
+        @Html.LabelFor(p => p.Lavagem, "Tipo da Lavagem")
+        @Html.DropDownListFor(p => p.LavagemId,
+             ViewBag.lavagens as SelectList,
+             "Selecione",
+             new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(p => p.Valor)
+        @Html.TextBoxFor(p => p.Valor,
+                new
+                {
+                    @class = "form-control",
+                    placeholder = "Digite o valor"
+                })
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Salvar"
+               class="btn btn-primary" />
+
+        <!--Botao para voltar-->
+        @Html.ActionLink("Voltar", "Listar",
+            "Funcionario", new { @class = "btn btn-default" })
+    </div>
+
+
+}
