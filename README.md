@@ -6,4 +6,4 @@ BD (localDB)
 
 Componentes ( Bootstrap e jquery)
 
-Informações: Não finalizado, faltando 2 Design Patterns (Repository e Unit of Work).
+Patterns (Repository e Unit of Work).
