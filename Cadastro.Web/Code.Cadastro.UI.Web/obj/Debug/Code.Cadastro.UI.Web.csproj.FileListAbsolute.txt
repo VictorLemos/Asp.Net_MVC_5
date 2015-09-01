@@ -1,0 +1,88 @@
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll.config
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.pdb
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.dll
+C:\Users\HarO\Desktop\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.pdb
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll.config
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.pdb
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.dll
+C:\Users\Boss\Desktop\para o pc\ALL\C# DOT.NET (ESTUDOS)\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.pdb
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll.config
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.pdb
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.dll
+C:\Users\Boss\Desktop\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.pdb
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll.config
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\Code.Cadastro.UI.Web.pdb
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Helpers.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Mvc.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.Razor.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.csprojResolveAssemblyReference.cache
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.dll
+C:\Users\Boss\Desktop\Projetos para divulgar\dot NET\Cadastro.Web\Code.Cadastro.UI.Web\obj\Debug\Code.Cadastro.UI.Web.pdb

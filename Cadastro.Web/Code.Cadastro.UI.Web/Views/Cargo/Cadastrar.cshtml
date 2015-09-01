@@ -1,0 +1,37 @@
+﻿@model Code.Cadastro.UI.Web.Models.Cargo
+@{
+    ViewBag.Title = "Cadastrar Cargo";
+}
+
+<h2>Cadastrar</h2>
+@if (TempData["msg"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["msg"]
+    </div>
+}
+@using (@Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(c => c.Titulo)
+        @Html.TextBoxFor(c => c.Titulo,
+             new
+             {
+                 @class = "form-control",
+                 placeholder = "Digite o Título"
+             })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(c => c.Salario)
+        @Html.TextBoxFor(c => c.Salario,
+             new
+             {
+                 @class = "form-control",
+                 placeholder = "Digite o Salário"
+             })
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Salvar"
+               class="btn btn-primary" />
+    </div>
+}

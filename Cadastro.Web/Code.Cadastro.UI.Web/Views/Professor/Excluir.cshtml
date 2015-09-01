@@ -1,0 +1,16 @@
+﻿@model Code.Cadastro.UI.Web.Models.Professor
+@{
+    ViewBag.Title = "Excluir Professor";
+}
+
+<h2>Deseja excluir o professor <b>@Model.Nome</b>?</h2>
+@using (@Html.BeginForm("ExcluirConfirm", "Professor"))
+{
+    @Html.HiddenFor(p => p.ProfessorId)
+    <input type="submit" value="Excluir"
+           class="btn btn-danger" />
+    <!-- link para voltar-->
+    @Html.ActionLink("Voltar", "Listar", "Professor",
+                          new { @class = "btn btn-default" })
+}
+

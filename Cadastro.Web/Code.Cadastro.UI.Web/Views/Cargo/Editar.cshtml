@@ -1,0 +1,39 @@
+﻿@model Code.Cadastro.UI.Web.Models.Cargo
+@{
+    ViewBag.Title = "Editar Cargo";
+}
+
+<h2>Editar</h2>
+
+@using (@Html.BeginForm())
+{
+    //Campo escondido para identificar o cargo
+    @Html.HiddenFor(c => c.CargoId)
+    
+    <div class="form-group">
+        @Html.LabelFor(c => c.Titulo)
+        @Html.TextBoxFor(c => c.Titulo,
+             new
+             {
+                 @class = "form-control",
+                 placeholder = "Digite o Título"
+             })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(c => c.Salario)
+        @Html.TextBoxFor(c => c.Salario,
+             new
+             {
+                 @class = "form-control",
+                 placeholder = "Digite o Salário"
+             })
+    </div>
+        <div class="form-group">
+            <input type="submit" value="Atualizar"
+                   class="btn btn-success" />
+            @Html.ActionLink("Voltar", "Listar", "Cargo",
+                        new { @class = "btn btn-primary" })
+        </div>
+
+}
+

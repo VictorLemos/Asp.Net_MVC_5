@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    
+    <title>@ViewBag.Title - Code First</title>
+    <link href="~/Content/img/batman.png" rel="icon" />
+
+    @*Aqui vamos colocar nossas folhas de estilo do Bootstrap, Bootstrap Theme e Bootstrap Date
+        Picker*@
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-datepicker.min.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <ul class="nav nav-tabs">
+            <li class="active"> 
+                @Html.ActionLink("Home", "Index", "Home", null, new { @class = "glyphicon glyphicon-fire" })
+            </li>      
+            
+            @* Classe pra fazer o dropdown*@
+            <li class="dropdown">
+                <a href="#" class="dropdown-menu-left"
+                   data-toggle="dropdown">
+                    Professor <span class="active"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>@Html.ActionLink("Cadastrar", "Cadastrar", "Professor")</li>
+                    <li>@Html.ActionLink("Listar", "Listar", "Professor")</li>
+                </ul>   
+            </li>  
+            
+            <li class="dropdown">
+                <a href="#" class="dropdown-menu-left"
+                   data-toggle="dropdown">
+                    Cargo <span class="active"></span>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>@Html.ActionLink("Cadastrar", "Cadastrar", "Cargo")</li>
+                    <li>@Html.ActionLink("Listar", "Listar", "Cargo")</li>
+                </ul>
+            </li>         
+         </ul>
+    </header>
+
+
+    @*Aqui ficará o conteúdo renderizado pela nossa controller
+        O miolo da página*@
+    <section class="container">
+        <div>
+            @RenderBody()
+        </div>
+    </section>
+
+    @*Aqui ficará o rodapé da página*@
+    <footer>
+        <hr/>
+            <p class="text-center">
+                <img src="~/Content/img/images.jpg" width="30" />
+                &copy; @DateTime.Now.Year - by Victor Lemos - My Project
+            </p>
+        <hr/>
+
+</footer>
+
+    @*Aqui vamos colocar nossos arquivos .JS
+        JQuery.JS
+        BootStrap.JS
+        Bootstrap Date Picker*@
+    <script src="~/Scripts/jquery-2.1.4.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/bootstrap-datepicker.min.js"></script>
+    <script src="~/Scripts/locales/bootstrap-datepicker.pt-BR.min.js"></script>
+    <script src="~/Scripts/maskedinput.js"></script>
+</body>
+</html>
